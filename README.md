@@ -1,2 +1,2 @@
 # php-cloud
-A unique distributed load balancing cloud architecture for zero- dependence network delivered applications over http/s written in php 7.1+ 
+A unique distributed load balancing cloud architecture for zero- dependence php applications delivered over http/https. 
